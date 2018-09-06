@@ -1,1 +1,2 @@
 # Fuzzy-Kmeans-Data-Imputation
+Anybody who has worked in data science will know that missing data is a curse. We have found ways to get around this problem with a veriety of data imputation techniques, for example meanimputation, median imputation, mode imputation, regression imputation, grouped median imputation etc. One very efficient way to impute data is fuzzyKmeans data imputation. Unfortunately I couldn't find a python implementation. Here's my venture make one. 
